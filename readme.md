@@ -40,7 +40,7 @@
 <div>
 <h2>💖 Sponsors</h2>
 
-Your company Logo will be displayed here
+Your company Logo will be displayed here!
 
 </div>
 -->
